@@ -8,7 +8,6 @@ Projeto de treino utilizando o simulador online Wokwi. O sistema lê a temperatu
 - Sensor NTC
 - Servo motor
 - LCD I2C 16x2
-- Resistores e cabos de conexão
 
 ## Funcionamento
 1. Leitura do valor do sensor NTC no pino A3.
